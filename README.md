@@ -7,8 +7,8 @@ Java is one of the most popular programming languages. Java offers both object-o
 In the first video I have just described about what we are going to learn in this series. Total there are 6 section in this series.
 
 # SECTIONS:
-### 1. Basics of Java:
-#### Java Introduction
+## SECTION 1. Basics of Java:
+### Java Introduction
 > * In today's time the demand for this Programming Language is very high. let me tell you one interesting thing about this language. At present, Java code is used in more than 3000000 electronic devices. From this you can guess how popular this programming language is.
 > * It is used in all the Smart Phones you are using and Electronic Devices like AC, Oven, Smart TV, Digital Fridge. Programming different parts in the equipment of some Automated Industries. If you want to learn Android Programming, then it is very important to learn Java. So let's know what is Java.
 * History of Java
@@ -23,9 +23,9 @@ In the first video I have just described about what we are going to learn in thi
 * Features of Java
 * What is JDK JRE and JVM
 * Basic Program Examples.
-### 2. Variables and Data Types
-3. Control flow Statements
-4. Array and String in Java
-5. Classes and Objects
-6. Packages and Interfaces
-7. OOPS Concepts
+## SECTION 2. Variables and Data Types
+## SECTION 3. Control flow Statements
+## SECTION 4. Array and String in Java
+## SECTION 5. Classes and Objects
+## SECTION 6. Packages and Interfaces
+## SECTION 7. OOPS Concepts
