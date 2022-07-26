@@ -9,6 +9,7 @@ In the first video I have just described about what we are going to learn in thi
 # SECTIONS:
 ### 1. Basics of Java:
 * Java Introduction
+In today's time the demand for this Programming Language is very high. let me tell you one interesting thing about this language. At present, Java code is used in more than 3000000 electronic devices. From this you can guess how popular this programming language is.
 * History of Java
 * Getting Started with Java
 * What is Path and Classpath
