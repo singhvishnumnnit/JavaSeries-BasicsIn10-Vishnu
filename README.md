@@ -4,7 +4,7 @@ Java is one of the most popular programming languages. Java offers both object-o
 # <img src="https://github.com/singhvishnumnnit/JavaSeries-BasicsIn10-Vishnu/blob/main/1.jpg" alt="drawing" width="50"/> [Basics In 10 - Vishnu: Channel Trailer](https://www.youtube.com/watch?v=tR6j-qrwdho&t=17s) 
 
 
-[Java Series Section 1: Overview](https://www.youtube.com/watch?v=fhkK7Rbd07o)
+## [Java Series Section 1: Series Overview](https://www.youtube.com/watch?v=fhkK7Rbd07o)
 In the first video I have just described about what we are going to learn in this series. Total there are 6 section in this series.
 
 # SECTIONS:
