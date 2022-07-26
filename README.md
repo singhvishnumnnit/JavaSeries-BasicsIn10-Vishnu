@@ -9,19 +9,19 @@ In the first video I have just described about what we are going to learn in thi
 # SECTIONS:
 ### 1. Basics of Java:
 * Java Introduction
-#### * History of Java
-#### * Getting Started with Java
-#### * What is Path and Classpath
-#### * Checking Java installation and Version
-#### * Syntax in Java
-#### * My First Java Program
-#### * Basic terms in Java Program
-#### * Runtime and Compile time
-#### * What is Bytecode
-#### * Features of Java
-#### * What is JDK JRE and JVM
-#### * Basic Program Examples.
-2. Variables and Data Types
+* History of Java
+* Getting Started with Java
+* What is Path and Classpath
+* Checking Java installation and Version
+* Syntax in Java
+* My First Java Program
+* Basic terms in Java Program
+* Runtime and Compile time
+* What is Bytecode
+* Features of Java
+* What is JDK JRE and JVM
+* Basic Program Examples.
+### 2. Variables and Data Types
 3. Control flow Statements
 4. Array and String in Java
 5. Classes and Objects
