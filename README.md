@@ -8,7 +8,7 @@ In the first video I have just described about what we are going to learn in thi
 
 # SECTIONS:
 ### 1. Basics of Java:
-#### * Java Introduction
+* Java Introduction
 #### * History of Java
 #### * Getting Started with Java
 #### * What is Path and Classpath
