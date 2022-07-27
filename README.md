@@ -12,7 +12,7 @@ In the first video I have just described about what we are going to learn in thi
 # SECTIONS:
 
 ## SECTION 1. Basics of Java:
-* ### Java Introduction
+1. ### Java Introduction
 > * In today's time the demand for this Programming Language is very high. let me tell you one interesting thing about this language. At present, Java code is used in more than 3000000 electronic devices. From this you can guess how popular this programming language is.
 > * It is used in all the Smart Phones you are using and Electronic Devices like AC, Oven, Smart TV, Digital Fridge. Programming different parts in the equipment of some Automated Industries. If you want to learn Android Programming, then it is very important to learn Java. So let's know what is Java.
 > #### What is Java?
