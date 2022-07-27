@@ -3,7 +3,7 @@
 
 > _Java is one of the most popular programming languages. Java offers both object-oriented and functional programming features. This series assumes no previous (beginner) programming or Java experience. This series will clear your all the basics doubts. If you’ve never programmed a computer before, or if you already have experience with another programming language and want to quickly learn Java, this is a perfect series for you._
 
-# <img src="https://github.com/singhvishnumnnit/JavaSeries-BasicsIn10-Vishnu/blob/main/1.jpg" alt="drawing" width="50"/> [Basics In 10 - Vishnu: Channel Trailer](https://www.youtube.com/watch?v=tR6j-qrwdho&t=17s) 
+# <img src="https://github.com/singhvishnumnnit/JavaSeries-BasicsIn10-Vishnu/blob/main/1.jpg" alt="drawing" width="20"/> [Basics In 10 - Vishnu: Channel Trailer](https://www.youtube.com/watch?v=tR6j-qrwdho&t=17s) 
 
 
 ## [Java Series Section 1: Series Overview](https://www.youtube.com/watch?v=fhkK7Rbd07o)
