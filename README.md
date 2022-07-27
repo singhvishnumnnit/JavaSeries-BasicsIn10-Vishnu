@@ -20,7 +20,17 @@ In the first video I have just described about what we are going to learn in thi
 > Java is used for the Developement of the Softwares and Applications.
 > - **Software** is a program requirement to collect the data and information to command the computer to function. It corresponds with the hardware on which the machine is built and truly accomplishes the task. Particularly, it does not require any user interaction to work, as it has the ability to work on itself once the computer or device is started. It is the mediator between the hardware and the user. `Examples- Operating System Softwares, Device Driver Softwares, Utility Softwares, Malicious Softwares`
 > - **Applications** is a type of software program that is developed to perform a particular activity on a computer or a device. `Every application is software`. The function is directly used, launched, and interacted with by the ultimate user. It is an operating system based program. An app can do one task specifically or some integrated tasks together (depending on its development). `The tasks performed by an app can be manipulation of numbers, texts, audio, visual graphics, or a combination of them all. Examples- Database Softwares, Editting Software, Educational Software, Mathematical Soft. Entertainment Soft. etc.`
+
 > As a programming language, we can write programs in java using english based commands which can be executed on different types of devices.
+
+> #### What is program ?
+> A program is basically a set of instructions written inside a file by following a programming language syntax. It performs a specific tasks when executed on a device. For example program of "adding two number", "multiplication of two number" etc.
+
+> #### What is syntax in java ?
+> Like grammar in English, Java has also defined a set of rules that must be followed while writing the programs in java. These rules are known as Syntax in java. A programmer should know these syntaxes before writing the program in java. Refer syntax in java tutorial for more detail about syntax. 
+
+> #### Is java a high level language ?
+> Yes, java is a high-level language. You can write computer instructions using English based commands instead of writing the instructions in low level language(machine code or assembly language). At the time of execution, these commands or high-level instructions are translated into low level instructions that computer can understand and execute. 
 * ### History of Java
 * ### Getting Started with Java
 * ### What is Path and Classpath
