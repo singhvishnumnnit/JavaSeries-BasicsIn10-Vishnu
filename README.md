@@ -17,6 +17,8 @@ In the first video I have just described about what we are going to learn in thi
 > #### What is Java?
 > Java is a programming language and a platform. It was developed by the company named Sun MicroSystems in 1995 which was later acquired by Oracle Corporation. Now oracle manages and releases different versions of java. Java was created by a team led by James Gosling at Sum MicroSystems.
 > Java is used for the Developement of the Softwares and Applications.
+> ** Software is a program requirement to collect the data and information to command the computer to function. It corresponds with the hardware on which the machine is built and truly accomplishes the task. **
+
 * ### History of Java
 * ### Getting Started with Java
 * ### What is Path and Classpath
