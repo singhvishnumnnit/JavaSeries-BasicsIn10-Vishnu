@@ -30,7 +30,27 @@ In the first video I have just described about what we are going to learn in thi
 > Like grammar in English, Java has also defined a set of rules that must be followed while writing the programs in java. These rules are known as Syntax in java. A programmer should know these syntaxes before writing the program in java. Refer syntax in java tutorial for more detail about syntax. 
 
 > #### Is java a high level language ?
-> Yes, java is a high-level language. You can write computer instructions using English based commands instead of writing the instructions in low level language(machine code or assembly language). At the time of execution, these commands or high-level instructions are translated into low level instructions that computer can understand and execute. 
+> Yes, java is a high-level language. You can write computer instructions using English based commands instead of writing the instructions in low level language(machine code or assembly language). At the time of execution, these commands or high-level instructions are translated into low level instructions that computer can understand and execute.
+
+> ### Java Platform
+> Java is also a Platform. As as soon as you run a java program or application, java creates a runtime environment where your java programs or application runs. Generally operating systems like Microsoft Windows, Linux, Solaris, Mac OS etc. are known as platforms. Java platform is a software-only platform that runs on top of hardware-based platforms(OS). Java platforms contains a Java Virtual Machine (JVM) and an application programming interface (API). 
+
+> #### How does computer understands java program ?
+> Computer doesn't understands java program directly as it's written in English based commands. Computer understands only low level instructions(machine code or assembly language). Java program is converted into low level instructions using java software(JDK and JRE) which is then executed by computer.
+
+> ### Types of Java Platform
+> - Java Platform, Standard Edition (Java SE)
+> - Java Platform, Enterprise Edition (Java EE)
+> - Java Platform, Micro Edition (Java ME)
+> - JavaFX
+
+> #### Why do java provides different types of platforms ?
+> As a developer or enterprise you may require to develop different types of applications like desktop application, web application, gaming applications etc. To develop different types of applications java provides different types of platforms.
+
+> ### Usage of Java Language
+> With time the use of java has increased significantly which makes it one of the most preferred language for programmers and enterprises.
+>  Some of the popular devices that uses java are ATMs, Smartcards, Routers, Switches, Smart Meters, Access Control System, Medical Devices etc.
+
 2. ### History of Java
 3. ### Getting Started with Java
 4. ### What is Path and Classpath
