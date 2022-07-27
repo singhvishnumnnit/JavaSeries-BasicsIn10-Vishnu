@@ -10,6 +10,7 @@
 In the first video I have just described about what we are going to learn in this series. Total there are 6 section in this series.
 
 # SECTIONS:
+
 ## SECTION 1. Basics of Java:
 * ### Java Introduction
 > * In today's time the demand for this Programming Language is very high. let me tell you one interesting thing about this language. At present, Java code is used in more than 3000000 electronic devices. From this you can guess how popular this programming language is.
@@ -17,7 +18,8 @@ In the first video I have just described about what we are going to learn in thi
 > #### What is Java?
 > Java is a programming language and a platform. It was developed by the company named Sun MicroSystems in 1995 which was later acquired by Oracle Corporation. Now oracle manages and releases different versions of java. Java was created by a team led by James Gosling at Sum MicroSystems.
 > Java is used for the Developement of the Softwares and Applications.
-> ** Software is a program requirement to collect the data and information to command the computer to function. It corresponds with the hardware on which the machine is built and truly accomplishes the task. **
+**Software**` is a program requirement to collect the data and information to command the computer to function. It corresponds with the hardware on which the machine is built and truly accomplishes the task.`
+**Applications** `is a type of software program that is developed to perform a particular activity on a computer or a device.`
 
 * ### History of Java
 * ### Getting Started with Java
