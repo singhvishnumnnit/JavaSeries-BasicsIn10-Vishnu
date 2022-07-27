@@ -20,7 +20,7 @@ In the first video I have just described about what we are going to learn in thi
 > Java is used for the Developement of the Softwares and Applications.
 > - **Software** is a program requirement to collect the data and information to command the computer to function. It corresponds with the hardware on which the machine is built and truly accomplishes the task. Particularly, it does not require any user interaction to work, as it has the ability to work on itself once the computer or device is started. It is the mediator between the hardware and the user. `Examples- Operating System Softwares, Device Driver Softwares, Utility Softwares, Malicious Softwares`
 > - **Applications** is a type of software program that is developed to perform a particular activity on a computer or a device. `Every application is software`. The function is directly used, launched, and interacted with by the ultimate user. It is an operating system based program. An app can do one task specifically or some integrated tasks together (depending on its development). `The tasks performed by an app can be manipulation of numbers, texts, audio, visual graphics, or a combination of them all. Examples- Database Softwares, Editting Software, Educational Software, Mathematical Soft. Entertainment Soft. etc.`
-
+> As a programming language, we can write programs in java using english based commands which can be executed on different types of devices.
 * ### History of Java
 * ### Getting Started with Java
 * ### What is Path and Classpath
