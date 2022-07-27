@@ -31,18 +31,18 @@ In the first video I have just described about what we are going to learn in thi
 
 > #### Is java a high level language ?
 > Yes, java is a high-level language. You can write computer instructions using English based commands instead of writing the instructions in low level language(machine code or assembly language). At the time of execution, these commands or high-level instructions are translated into low level instructions that computer can understand and execute. 
-* ### History of Java
-* ### Getting Started with Java
-* ### What is Path and Classpath
-* ### Checking Java installation and Version
-* ### Syntax in Java
-* ### My First Java Program
-* ### Basic terms in Java Program
-* ### Runtime and Compile time
-* ### What is Bytecode
-* ### Features of Java
-* ### What is JDK JRE and JVM
-* ### Basic Program Examples.
+2. ### History of Java
+3. ### Getting Started with Java
+4. ### What is Path and Classpath
+5. ### Checking Java installation and Version
+6. ### Syntax in Java
+7. ### My First Java Program
+8. ### Basic terms in Java Program
+9. ### Runtime and Compile time
+10. ### What is Bytecode
+11. ### Features of Java
+12. ### What is JDK JRE and JVM
+13. ### Basic Program Examples.
 ## SECTION 2. Variables and Data Types
 ## SECTION 3. Control flow Statements
 ## SECTION 4. Array and String in Java
